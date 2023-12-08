@@ -1,6 +1,6 @@
 # MFC-exercises
 
-Some exercises in the realm of MFC frameworks.
+Some exercises in the realm of MFC frameworks. IDE: Visual Studio 2013.
 
 ## Exercise 1: Mouse and Keyboard
 Please craft a multi-document program with the following specifications:
@@ -55,7 +55,7 @@ Construct a straightforward network chat application facilitating communication 
 
 # MFC练习
 
-一些在MFC框架领域的练习。
+一些在MFC框架领域的练习。代码运行环境：Visual Studio 2013。
 
 ## 练习1：鼠标和键盘
 请编写一个满足以下规格的多文档程序：
